@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
 
 body {
-    background-color: black;
+    background-color: rgb(210, 145, 145);
     font-family: 'Hubballi', cursive;
 }
 
 .calculator {
     width: 43rem;
     height: 44rem;
-    background-color: black;
+    background-color: rgb(220, 216, 216);
     margin: auto;
     border: 2px solid white;
     border-radius: 20px;
@@ -26,9 +26,9 @@ body {
 .screen {
     width: 33.5rem;
     height: 5rem;
-    background-color: black;
+    background-color: rgb(252, 230, 230);
     margin-top: 30px;
-    color: gold;
+    color: black;
     border: 3px solid white;
     display: flex;
     justify-content: space-between;
@@ -48,7 +48,7 @@ body {
     width: 35rem;
     justify-content: center;
     flex-direction: column;
-    color: azure;
+    color: black;
 }
 
 .button {
